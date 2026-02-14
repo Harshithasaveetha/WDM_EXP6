@@ -132,9 +132,18 @@ print(f"\nThe highest rank cosine score is: {highest_score} (Document ID: {highe
 ```
 
 ### Output:
+<img width="710" height="252" alt="494258823-c7ba9890-4386-4844-ad95-0c3dd8cf8260" src="https://github.com/user-attachments/assets/40d71077-55aa-453a-bf7b-ae8a0dac0d9c" />
+
+<img width="783" height="442" alt="494258862-ae2ac8d1-7517-4263-ac3f-55462ca8d6af" src="https://github.com/user-attachments/assets/695cd464-f2bf-4a7a-b186-59788985e0c0" />
+
+<img width="784" height="294" alt="494258902-99780132-1008-4e62-b0ba-171cae64f9da" src="https://github.com/user-attachments/assets/13b82261-c562-44bc-8195-5a7abd6eb43f" />
 
 
-<img width="784" height="294" alt="494258902-99780132-1008-4e62-b0ba-171cae64f9da" src="https://github.com/user-attachments/assets/cea2fdbd-d14f-4847-9541-2ba72cf3e18c" />
+<img width="1159" height="459" alt="494258985-2bbcede7-6f3e-47eb-9c9d-8f1903e1b16b" src="https://github.com/user-attachments/assets/daf97e2c-9110-47c5-9d50-08a9306ebc32" />
+
+
+<img width="798" height="298" alt="494259043-d2606136-8deb-4ce4-9916-e132ecbbfe43" src="https://github.com/user-attachments/assets/e296bed3-088f-4c3a-a386-a662d7e909e8" />
+
 
 ### Result:
 Thus the, Information Retrieval using the Vector Space Model in Python involves several steps, including preprocessing text data, constructing a term-document matrix, TF-IDF scores, and performing similarity calculations between queries and documents is executed successfully.
